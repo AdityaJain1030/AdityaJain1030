@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajain1030&label=Profile%20views&color=0e75b6&style=flat" alt="adityajain1030" /> </p>
 
-- 🔭 I’m currently working on **Random stuff**
+- 🔭 I’m currently working hard on **playing lots of minecraft**
 
 - 🌱 I’m currently learning **Pytorch, Crystal, and other languages nobody knows about.**
 

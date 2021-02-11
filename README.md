@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **developerguy9@gmail.com (cuz why not)**
 
-- ⚡ Fun fact **GME TO THE MOON 🚀🚀🚀🚀**
+- ⚡ Fun fact **Im Bored**
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **developerguy9@gmail.com (cuz why not)**
 
-- ⚡ Fun fact **Im Bored**
+- ⚡ Fun fact **Stonks**
 
 
 <h3 align="left">Languages and Tools:</h3>

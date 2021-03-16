@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya Jain, Professional Indian</h1>
+<h1 align="center">Hi 👋, I'm Aditya Jain</h1>
 <h3 align="center">I do random stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajain1030&label=Profile%20views&color=0e75b6&style=flat" alt="adityajain1030" /> </p>
 
 - 🔭 I’m currently working hard on **playing lots of minecraft**
 
-- 🌱 I’m currently learning **Pytorch, Crystal, and other languages nobody knows about.**
-
 - 📫 How to reach me **developerguy9@gmail.com (cuz why not)**
-
-- ⚡ Fun fact **Stonks**
 
 
 <h3 align="left">Languages and Tools:</h3>

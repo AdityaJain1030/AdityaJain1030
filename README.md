@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Game Development, and Music Production**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

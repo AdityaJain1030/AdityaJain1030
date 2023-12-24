@@ -2,7 +2,7 @@
 
 ### Founder of [Third Axis](https://thirdaxis.org). Programmer by day, [Capybara](https://www.youtube.com/watch?v=s9oQRKsROF8) Enthusiast also by day.
 
-Outside of building shitty web apps, I also like AI 🤖, finance 💵, physics 🌌, tiny computers 💻, and lifting 💪.
+Outside of building web apps, I also like AI 🤖, finance 💵, physics 🌌, tiny computers 💻, and lifting 💪.
 
 I use Arch, btw.
 
